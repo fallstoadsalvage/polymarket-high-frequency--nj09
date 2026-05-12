@@ -1,4 +1,4 @@
-# 
+# advanced Polymarket Module | automated-trade-execution + multi-exchange-support offers the most advanced Polymarket module, with automated-trade-execution and
 
 
 
